@@ -8,8 +8,8 @@ This data analysis uncovers hidden sales insight, as this is crucial for optimiz
 ### Data Sources
 This project made use of Sales data in Excel:A comprehensive sheet containing sales data, wheich served as the foundation for data analysis, which was provided by the Incubator Hub.
   
-###Tools Used
+### Tools Used
 The Unlocking Sales Insights project relied on a combination of Tools to uncover hidden trends for a retail store and the primary data sources used were;
 * Microsoft Excel:Used in cleaning the data set, creating  Pivot Tables and also Charts to properly represent these trends and patterns in this data
 * SQL Server:Used to extract and manipulate data, enabling the execution of complex queries to show nuanced insights
-* Power BI;Employed to create an interactive dashboard, facilitating effortless exploration and visualization of data.
+* Power BI:Employed to create an interactive dashboard, facilitating effortless exploration and visualization of data.
