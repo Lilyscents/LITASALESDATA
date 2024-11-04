@@ -1,2 +1,2 @@
 # LITASALESDATA
-##UNLOCKING SALES INSIGHT: A Sales Data Analysis Journey
+## UNLOCKING SALES INSIGHT: A Sales Data Analysis Journey
