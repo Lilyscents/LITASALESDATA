@@ -55,7 +55,6 @@ The Unlocking Sales Insights project relied on a combination of Tools to uncover
     * Few products like; Shoes, Shirts and Jacket accounted for a large portion of total revenue
     * Products like socks and gloves did not contribute so much to the revenue in terms of sales.
 
-    ### Recommendations
     Based on my findings, some of the recommendations I can offer to the organization includes;
     * Product Category Optimization:
     i Focus on expanding the shoe product line considering its high sales impact.
