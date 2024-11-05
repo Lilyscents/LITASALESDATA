@@ -29,7 +29,7 @@ The Unlocking Sales Insights project relied on a combination of Tools to uncover
     * Top selling product by region?
     * What is the overall sales trend?
    
-      ### Data Analysis
+      ### Data Analysis and Visualizations
      This part includes the techniques used in this analysis as my primary objectives were to;
     * Explored and visualized data using Power BI as my visualization tool, which helped to create interactive dashboards and charts,  providing a clear understanding of the data distribution, outliers and relationships
     i I made use of Microsoft Excel to perform statistical analysis and calculate metrics such as total sales per region and average sales per product
