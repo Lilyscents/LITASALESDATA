@@ -47,8 +47,8 @@ The Unlocking Sales Insights project relied on a combination of Tools to uncover
 
    ### Findings
     The Insights uncovered were remarkable as I discovered the following;
-    1 Shoes in the product category drove majority of sales with over 3,087,500 as the total sales
-    2 All Regions had the same total of sales
-    3 Few products like; Shoes, Shirts and Jacket accounted for a large portion of total revenue
-    4 Products like socks and gloves did not contribute so much to the revenue in terms of sales
+    * Shoes in the product category drove majority of sales with over 3,087,500 as the total sales
+    * All Regions had the same total of sales
+    * Few products like; Shoes, Shirts and Jacket accounted for a large portion of total revenue
+    * Products like socks and gloves did not contribute so much to the revenue in terms of sales
   
