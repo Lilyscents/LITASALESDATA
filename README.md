@@ -40,8 +40,11 @@ The Unlocking Sales Insights project relied on a combination of Tools to uncover
     * Total revenue per product
     * Top 5 customers by total purchase amount etc.
 ![Screenshot 2024-11-05 081045](https://github.com/user-attachments/assets/31f8db98-545b-41af-bd7e-39b080f65111)
+
 ![Screenshot 2024-11-04 212136](https://github.com/user-attachments/assets/b3537b0c-78c7-4d96-ae96-17a684cfaab2)
+
 ![Screenshot 2024-11-04 212234](https://github.com/user-attachments/assets/ab034ce2-45cc-4b54-991a-f4ccb9ccdc3b)
+
 ![Screenshot 2024-11-04 213050](https://github.com/user-attachments/assets/b13ea142-6a95-41d7-bb00-062f9ffc1fdf)
 
 
@@ -50,5 +53,20 @@ The Unlocking Sales Insights project relied on a combination of Tools to uncover
     * Shoes in the product category drove majority of sales with over 3,087,500 as the total sales
     * All Regions had the same total of sales
     * Few products like; Shoes, Shirts and Jacket accounted for a large portion of total revenue
-    * Products like socks and gloves did not contribute so much to the revenue in terms of sales
+    * Products like socks and gloves did not contribute so much to the revenue in terms of sales.
+
+    ### Recommendations
+    * Product Category Optimization:
+    i Focus on expanding the shoe product line considering its high sales impact.
+    ii Consider bonding socks and gloves with other high-performing products like shoes and shirts.
+    * Regional Sales Strategy:
+    i Develop targeted marketing campaigns for each region, highlighting top-selling products.
+    ii Allocate resources efficiently as all regions have similar sales potential.
+    * Consider the regions to check weather and other conditions to know the reason products like socks and gloves are not having much sales, as socks and gloves are mostly used 
+      as a form of protection from cold 
+    * Inventory Management:
+    i Ensure optimal inventory levels for top-selling ptoducts like shoes and shirts.
+    ii Implement efficient stock replenishment systems to avoid stockouts.
+    By implementing these recommendations, the organization can boost sales by focusing on high-performing products, enhance product offerings and inventory management and also 
+    optimize marketing efforts and improve customer satisfaction, this will lead to increased revenue, improved efficiency and improve customer satisfaction.
   
