@@ -38,7 +38,7 @@ The Unlocking Sales Insights project relied on a combination of Tools to uncover
     iv Product with the lowest sales
     v Total revenue per product
     vi Top 5 customers by total purchase amount etc.
-![Screenshot 2024-11-04 090149](https://github.com/user-attachments/assets/128b0ad0-062c-4ccd-908f-7482d9a04e96)
+![Screenshot 2024-11-04 090149](https://github.com/user-attachments/assets/c01efa91-78b1-4924-96a0-1b5a847d0989)
 ![Screenshot 2024-11-04 212136](https://github.com/user-attachments/assets/b3537b0c-78c7-4d96-ae96-17a684cfaab2)
 ![Screenshot 2024-11-04 212234](https://github.com/user-attachments/assets/ab034ce2-45cc-4b54-991a-f4ccb9ccdc3b)
 ![Screenshot 2024-11-04 213050](https://github.com/user-attachments/assets/b13ea142-6a95-41d7-bb00-062f9ffc1fdf)
