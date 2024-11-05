@@ -31,25 +31,21 @@ The Unlocking Sales Insights project relied on a combination of Tools to uncover
    
       ### Data Analysis and Visualizations
      This part includes the techniques used in this analysis as my primary objectives were to;
-    * Explored and visualized data using Power BI as my visualization tool, which helped to create interactive dashboards and charts,  providing a clear understanding of the data distribution, outliers and relationships
-    i I made use of Microsoft Excel to perform statistical analysis and calculate metrics such as total sales per region and average sales per product
-    ii Employed SQL to query and manipulate the data in order to extract specific insights like;
-    iii Product with the highest sales
-    iv Product with the lowest sales
-    v Total revenue per product
-    vi Top 5 customers by total purchase amount etc.
+    * Explore and visualize data using Power BI as my visualization tool, which helped to create interactive dashboards and charts,  providing a clear understanding of the data 
+      distribution, outliers and relationships
+    * I made use of Microsoft Excel to perform statistical analysis and calculate metrics such as total sales per region and average sales per product
+    * Employed SQL to query and manipulate the data in order to extract specific insights like;
+    * Product with the highest sales
+    * Product with the lowest sales
+    * Total revenue per product
+    * Top 5 customers by total purchase amount etc.
 ![Screenshot 2024-11-05 081045](https://github.com/user-attachments/assets/31f8db98-545b-41af-bd7e-39b080f65111)
 ![Screenshot 2024-11-04 212136](https://github.com/user-attachments/assets/b3537b0c-78c7-4d96-ae96-17a684cfaab2)
 ![Screenshot 2024-11-04 212234](https://github.com/user-attachments/assets/ab034ce2-45cc-4b54-991a-f4ccb9ccdc3b)
 ![Screenshot 2024-11-04 213050](https://github.com/user-attachments/assets/b13ea142-6a95-41d7-bb00-062f9ffc1fdf)
 
 
-
-
- 
-    
-     
-  
+   ### Findings
     The Insights uncovered were remarkable as I discovered the following;
     1 Shoes in the product category drove majority of sales with over 3,087,500 as the total sales
     2 All Regions had the same total of sales
