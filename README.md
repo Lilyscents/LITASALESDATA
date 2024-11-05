@@ -1,3 +1,4 @@
+![Screenshot 2024-11-04 082658](https://github.com/user-attachments/assets/26102e12-6bfb-41e4-aa00-569278fabb37)
 # LITASALESDATA
 
 ## Project Title: UNLOCKING SALES INSIGHT; A Sales Data Analysis Trend
